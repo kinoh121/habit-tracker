@@ -1,0 +1,1 @@
+{"name":"Habit Tracker","short_name":"Habits","description":"ハビットトラッカー","start_url":"/habit-tracker/","display":"standalone","background_color":"#0d0d0d","theme_color":"#0d0d0d","lang":"en","scope":"/habit-tracker/","orientation":"landscape","icons":[{"src":"/habit-tracker/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
