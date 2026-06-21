@@ -20,8 +20,8 @@ interface HabitContextValue {
 const HabitContext = createContext<HabitContextValue | null>(null);
 
 const PRESET_COLORS = [
-  '#f97316', '#3b82f6', '#22c55e', '#ef4444',
-  '#a855f7', '#eab308', '#ec4899', '#94a3b8',
+  '#4a5e90', '#8a7040', '#3d7a68',
+  '#9a5870', '#625898', '#5a5f70',
 ];
 
 export function HabitProvider({ children }: { children: React.ReactNode }) {
